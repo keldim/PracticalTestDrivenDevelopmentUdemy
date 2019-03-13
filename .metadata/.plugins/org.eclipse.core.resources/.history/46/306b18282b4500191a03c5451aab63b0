@@ -15,7 +15,7 @@ public class ValidateISBN {
 			return isThisAValidShortISBN(isbn);
 		}
 		
-		throw new NumberFormatException("ISBN numbers must be 10 or 13 digits long");
+		throw new NumberFormatException("ISBN numbers must be 10 digits long");
 
 	}
 
