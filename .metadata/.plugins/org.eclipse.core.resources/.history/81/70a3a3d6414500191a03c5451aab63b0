@@ -1,0 +1,15 @@
+package com.chrisyoo.isbntools;
+
+public class StockManager {
+	
+	private ExternalISBNDataService service;
+	
+	public String getLocatorCode(String isbn) {
+		return null;
+	}
+
+	public void setService(ExternalISBNDataService service) {
+		this.service = service;
+	}
+	
+}
