@@ -6,3 +6,4 @@
 1552438154564	Extract constant 'LONG_ISBN_MULTIPLIER'
 1552438337218	Rename method 'isThisAValid10DigitISBN'
 1552438354760	Rename method 'isThisAValid13DigitISBN'
+1552459231916	Rename field 'service'

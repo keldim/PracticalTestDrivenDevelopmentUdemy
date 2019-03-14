@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StockManagementTests" project="ISBNValidator" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="com.chrisyoo.isbntools.StockManagementTests" time="0.088">
+    <testcase name="webserviceIsUsedIfDataIsNotPresentInDatabase" classname="com.chrisyoo.isbntools.StockManagementTests" time="0.087"/>
+    <testcase name="databaseIsUsedIfDataIsPresent" classname="com.chrisyoo.isbntools.StockManagementTests" time="0.001"/>
+    <testcase name="testCanGetACorrectLocatorCode" classname="com.chrisyoo.isbntools.StockManagementTests" time="0.0"/>
+  </testsuite>
+</testrun>
